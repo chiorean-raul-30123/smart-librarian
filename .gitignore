@@ -1,0 +1,14 @@
+# IDE
+.idea/
+.vscode/
+
+# Environment
+.venv/
+__pycache__/
+*.pyc
+
+# Secret files
+.env
+
+# Vector DB local
+vector_db/
